@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Resumer
+title: Glen P Vijoy
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
